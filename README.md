@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Bienvenidos a mi portal de GitHub!<br><br>Como desarrollador especializado en desarrollo web,<br> estoy encantado de presentarles mi espacio digital <br>donde podrán explorar mi trabajo, descubrir mis proyectos<br> y aprender más sobre mis habilidades<br> y experiencia en el mundo de la creación de sitios web.<br><br>Mi pasión por el desarrollo web me ha llevado a perfeccionar mis habilidades <br>en una amplia gama de tecnologías y lenguajes, incluyendo HTML, CSS, JavaScript, Frameworks<br>y muchos más. <br>He trabajado en diversos proyectos, desde sitios web estáticos hasta aplicaciones web dinámicas y soluciones empresariales de alta escala.
+¡Hola! Soy un desarrollador con experiencia en Python, HTML, CSS y JavaScript, así como en varios frameworks modernos. Mi principal enfoque es la calidad del software, trabajando como QA Tester con experiencia en el campo laboral. Estoy en constante aprendizaje de tecnologías actuales y tengo un gran interés en la automatización de pruebas para optimizar y asegurar la calidad de los proyectos en los que participo.<br>Tengo planes de iniciar proyectos enfocados en la automatización de pruebas, donde podré aplicar mis conocimientos de desarrollo y testing para crear soluciones innovadoras que mejoren la calidad y eficiencia de los procesos de pruebas.
 
 
 ## 🌐 Socials:
