@@ -12,14 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NotExer&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotExer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://plaky.com/blog/wp-content/uploads/2023/08/Found-another-bug-1.jpg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NotExer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://plaky.com/blog/wp-content/uploads/2023/08/Found-another-bug-1.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NotExer&icon=2&color=11)](https://visitcount.itsvg.in)
