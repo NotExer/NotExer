@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un desarrollador con experiencia en Python, HTML, CSS y JavaScript, así como en varios frameworks modernos. Mi principal enfoque es la calidad del software, trabajando como QA Tester con experiencia en el campo laboral. Estoy en constante aprendizaje de tecnologías actuales y tengo un gran interés en la automatización de pruebas para optimizar y asegurar la calidad de los proyectos en los que participo.<br>Tengo planes de iniciar proyectos enfocados en la automatización de pruebas, donde podré aplicar mis conocimientos de desarrollo y testing para crear soluciones innovadoras que mejoren la calidad y eficiencia de los procesos de pruebas.
+¡Hey! Simplemente un dev con experiencia en desarrollo web, así como en varios frameworks modernos. Mi principal enfoque es la calidad del software, trabajando como QA Tester con experiencia en el campo laboral. Estoy en constante aprendizaje de tecnologías actuales y tengo un gran interés en la automatización de pruebas para optimizar y asegurar la calidad de los proyectos en los que participo.<br>Tengo planes de iniciar proyectos enfocados en la automatización de pruebas, donde podré aplicar mis conocimientos de desarrollo y testing para crear soluciones innovadoras que mejoren la calidad y eficiencia de los procesos de pruebas.
 
 
 ## 🌐 Socials:
